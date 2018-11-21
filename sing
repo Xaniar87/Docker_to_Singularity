@@ -3,4 +3,4 @@ From:sinaehsani/sansrc_new:1st
 
 %post
 mkdir -p /extra/zaniarardalan
-mkdir -p /home/u15/zaniarardalan
+mkdir -p /home/u6/zaniarardalan
