@@ -1,5 +1,5 @@
 Bootstrap:docker  
-From:sinaehsani/sansrc_new:1st
+From:zaniar87/pydicom-tensorflow
 
 %post
 mkdir -p /extra/zaniarardalan
